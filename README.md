@@ -1,0 +1,2 @@
+# HibernateJPABeginner
+HibernateJPABeginner lab
